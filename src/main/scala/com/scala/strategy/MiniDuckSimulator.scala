@@ -1,6 +1,8 @@
 package com.scala.strategy
 
-
+// This Duck example is based of of the Head First Design Patterns
+// Strategy pattern.  But may in fact my more like the State Pattern
+// https://en.wikipedia.org/wiki/State_pattern
 
 
 object MiniDuckSimulator {
